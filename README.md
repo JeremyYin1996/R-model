@@ -10,11 +10,11 @@
  ODBC.R中是关于RODBC包的使用。RODBC包是为R语言服务操作ODBC的包，在使用RODBC包之前需要下载并配置对应ODBC数据源具体方法可见[RODBC](https://jingyan.baidu.com/article/870c6fc37e3afcb03fe4be38.html)
 
 ### RCurl.R
-
-
-
+ 使用RCurl包对网站基本信息进行抓取
+ 
 ### XML.R
-
+ 使用XML包
+ 
 ### house_inf.csv 和 honse_inf.xlsx
 
 ### 南京二手房信息.R
