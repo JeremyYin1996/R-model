@@ -13,15 +13,19 @@
  使用RCurl包对网站基本信息进行抓取
  
 ### XML.R
- 使用XML包
+ 使用XML包对网站基本信息进行抓取
  
 ### house_inf.csv 和 honse_inf.xlsx
+ house_inf.csv是通过[南京二手房信息.R](https://github.com/JeremyYin1996/R-model/blob/master/%E5%8D%97%E4%BA%AC%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BF%A1%E6%81%AF.R)获取的得到的南京二手房信息结果 和 honse_inf.xlsx 是对house_inf.csv中一些明显不符合要求的数据进行删除
 
 ### 南京二手房信息.R
-
+ 通过对链家网上的南京二手房信息进行数据获取，数据分析
+ 
 ### 南京租房信息.R
+ 通过对链家网上的南京租房信息进行数据获取，数据分析
 
 ### 正则表达式.R
+  R语言中正则表达式的使用规则以及使用正则表达式爬取网页信息
 
 ### 多元统计分析及R语言建模的附件.rar
   《多元统计分析及R语言建模》（第四版）书中例题及课后习题数据和代码
