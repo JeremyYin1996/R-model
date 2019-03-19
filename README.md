@@ -5,7 +5,7 @@
 以下是对仓库中相关文件的说明
 ### GGPLOT2.R
  ggplot2是使用图层的叠加来实现画图功能，比R语言原本自带的画图功能在性能上更好，本文件以mtcars为数据集，练习了如何绘制散点图、线图、柱状图、直方图等等，同时使用了分面作图来达到对图表功能更进一步的显示。关于ggplot2包的使用可以参考[《ggplot2：数据分析与图形艺术》](https://github.com/cosname/ggplot2-translation/tree/master/Rcode)
-   
+    
 ### ODBC.R
  ODBC.R中是关于RODBC包的使用。RODBC包是为R语言服务操作ODBC的包，在使用RODBC包之前需要下载并配置对应ODBC数据源具体方法可见[RODBC](https://jingyan.baidu.com/article/870c6fc37e3afcb03fe4be38.html)
 
